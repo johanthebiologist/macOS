@@ -17,3 +17,5 @@ In Automator, create a new application, drag "Run Applescript" over to the right
     set txt to make new file at (the target of the front window) as alias with properties {name:"README.txt"}
     select txt
 end tell`
+
+I have it saved as README.app in /Applications, and invoke it with Alfred (speedier than Spotlight).
