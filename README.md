@@ -18,4 +18,4 @@ In Automator, create a new application, drag "Run Applescript" over to the right
     select txt
 end tell`
 
-I have it saved as README.app in /Applications, and invoke it with Alfred (speedier than Spotlight).
+I have it saved as README.app in /Applications, and invoke it with Alfred or Spotlight.
