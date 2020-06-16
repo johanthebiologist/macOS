@@ -19,3 +19,6 @@ In Automator, create a new application, drag "Run Applescript" over to the right
 end tell`
 
 I have it saved as README.app in /Applications, and invoke it with Alfred or Spotlight.
+
+**macOS apps**
+- Paste (https://pasteapp.io/) $1 per month, but definitely worth it.
